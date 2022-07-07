@@ -99,7 +99,7 @@ button:hover{
 
 @media screen and (max-width: 325px) {
     #colorDisplay{
-        font-size: 120%;
+        font-size: 100%;
     }
 
     #container{
@@ -107,6 +107,14 @@ button:hover{
     }
 
     #message{
-        width: 88px;
+        width: 65px;
+        padding-left: 0;
+        padding-right: 0;
+    }
+
+    button{
+        letter-spacing: none;
+        padding-left: 0;
+        padding-right: 0;
     }
 }
