@@ -97,7 +97,7 @@ button:hover{
     }
 }
 
-@media screen and (max-width: 375px) {
+@media screen and (max-width: 325px) {
     #colorDisplay{
         font-size: 120%;
     }
