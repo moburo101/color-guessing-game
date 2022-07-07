@@ -96,3 +96,17 @@ button:hover{
         width: 100px;
     }
 }
+
+@media screen and (max-width: 375px) {
+    #colorDisplay{
+        font-size: 120%;
+    }
+
+    #container{
+        width: 300px;
+    }
+
+    #message{
+        width: 88px;
+    }
+}
